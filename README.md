@@ -2,7 +2,7 @@
 
 
 ## A little about myself 👨‍💻
-- Currently studying Systems Analysis and Development at the Faculty of Engineering of Sorocaba (FACENS)
+- Currently studying Systems Analysis and Development at Centro Universitário FACENS
 - I'm proactive and I'm always studying technology
 
 ## Languages ​​I'm currently studying 📖
