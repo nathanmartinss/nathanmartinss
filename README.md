@@ -5,7 +5,7 @@
 - I'm proactive and I'm always studying technology
 
 ## <img src="https://cdn-icons-png.flaticon.com/256/1774/1774779.png" width="25" height="25"/> What am I studying at the moment
-<img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/3291/3291669.png" /><img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/3291/3291670.png"/><img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/732/732190.png"/>
+<img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/3291/3291669.png" /><img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/3291/3291670.png"/><img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/732/732190.png"/><img align="center" width="40" height="40" src="https://cdn-icons-png.flaticon.com/256/5968/5968292.png"/>
 
 ## 📬 Contact me 
 <div>
