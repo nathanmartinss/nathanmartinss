@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um **Desenvolvedor Full-Stack** de 27 anos, atualmente trabalhando como **Analista de Sistema Júnior** na Nexamed. Formado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário FACENS, sou apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
+Sou um **Desenvolvedor Full-Stack** de 26 anos, atualmente trabalhando como **Analista de Sistema Júnior** na Nexamed. Formado em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário FACENS, sou apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados.
 
 - 💼 **Cargo atual:** Analista de Sistema Júnior na Nexamed
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - FACENS
