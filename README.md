@@ -48,10 +48,6 @@ Sou um **Desenvolvedor Full-Stack** de 26 anos, atualmente trabalhando como **An
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmartinss&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmartinss&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🚀 Projetos em Destaque
 
 ### 🌟 [TechTree](https://github.com/ronaldothame/techtree-backend)
@@ -81,7 +77,7 @@ Sistema desktop para gestão de confeitarias com controle de estoque e precifica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanmartinss)
 [![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanmartinss@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanm.br)
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanm.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathanmartinss)
 
 </div>
