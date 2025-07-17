@@ -12,7 +12,7 @@ Sou um **Desenvolvedor Full-Stack** de 26 anos, atualmente trabalhando como **An
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas - FACENS
 - 🌱 **Atualmente estudando:** React avançado, Node.js e Java
 - 💡 **Sempre:** Explorando novas tecnologias e boas práticas
-- 🌐 **Portfólio:** [nathanm.br](https://nathanm.br)
+- 🌐 **Portfólio:** [nathanm.br](https://nathanm.com.br)
 
 ## 🛠️ Stack Principal
 
